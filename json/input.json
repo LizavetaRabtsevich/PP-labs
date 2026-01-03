@@ -1,0 +1,82 @@
+[
+  {
+    "lastName": "Иванов",
+    "firstName": "Иван",
+    "middleName": "Иванович",
+    "course": 2,
+    "group": "ПИ-201",
+    "sessionNumber": 1,
+    "subjectName": "Математика",
+    "grade": 9
+  },
+  {
+    "lastName": "Иванов",
+    "firstName": "Иван",
+    "middleName": "Иванович",
+    "course": 2,
+    "group": "ПИ-201",
+    "sessionNumber": 1,
+    "subjectName": "Программирование",
+    "grade": 10
+  },
+  {
+    "lastName": "Иванов",
+    "firstName": "Иван",
+    "middleName": "Иванович",
+    "course": 2,
+    "group": "ПИ-201",
+    "sessionNumber": 2,
+    "subjectName": "Базы данных",
+    "grade": 9
+  },
+  {
+    "lastName": "Иванов",
+    "firstName": "Иван",
+    "middleName": "Иванович",
+    "course": 2,
+    "group": "ПИ-201",
+    "sessionNumber": 2,
+    "subjectName": "Алгоритмы",
+    "grade": 10
+  },
+  {
+    "lastName": "Петров",
+    "firstName": "Петр",
+    "middleName": "Петрович",
+    "course": 2,
+    "group": "ПИ-202",
+    "sessionNumber": 1,
+    "subjectName": "Математика",
+    "grade": 8
+  },
+  {
+    "lastName": "Петров",
+    "firstName": "Петр",
+    "middleName": "Петрович",
+    "course": 2,
+    "group": "ПИ-202",
+    "sessionNumber": 1,
+    "subjectName": "Программирование",
+    "grade": 9
+  },
+  {
+    "lastName": "Козлова",
+    "firstName": "Мария",
+    "middleName": "Александровна",
+    "course": 3,
+    "group": "ПИ-301",
+    "sessionNumber": 1,
+    "subjectName": "Веб-программирование",
+    "grade": 10
+  },
+  {
+    "lastName": "Козлова",
+    "firstName": "Мария",
+    "middleName": "Александровна",
+    "course": 3,
+    "group": "ПИ-301",
+    "sessionNumber": 1,
+    "subjectName": "ООП",
+    "grade": 9
+  }
+]
