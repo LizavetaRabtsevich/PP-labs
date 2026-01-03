@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="library.xsd">
+
+    <book id="1" totalCopies="5" availableCopies="3">
+        <title>Java Programming</title>
+        <author>James Gosling</author>
+        <year>2020</year>
+        <price>49.99</price>
+        <category>programming</category>
+    </book>
+
+    <book id="2" totalCopies="3" availableCopies="1">
+        <title>Design Patterns</title>
+        <author>Erich Gamma</author>
+        <year>1994</year>
+        <price>39.99</price>
+        <category>computer-science</category>
+    </book>
+
+    <book id="3" totalCopies="4" availableCopies="4">
+        <title>Effective Java</title>
+        <author>Joshua Bloch</author>
+        <year>2018</year>
+        <price>54.99</price>
+        <category>programming</category>
+    </book>
+
+    <book id="4" totalCopies="6" availableCopies="2">
+        <title>Clean Code</title>
+        <author>Robert C. Martin</author>
+        <year>2008</year>
+        <price>44.99</price>
+        <category>programming</category>
+    </book>
+
+    <book id="5" totalCopies="2" availableCopies="2">
+        <title>The Pragmatic Programmer</title>
+        <author>Andrew Hunt</author>
+        <year>1999</year>
+        <price>42.50</price>
+        <category>programming</category>
+    </book>
+
+    <book id="6" totalCopies="5" availableCopies="5">
+        <title>Introduction to Algorithms</title>
+        <author>Thomas H. Cormen</author>
+        <year>2009</year>
+        <price>89.99</price>
+        <category>computer-science</category>
+    </book>
+
+    <book id="7" totalCopies="3" availableCopies="0">
+        <title>1984</title>
+        <author>George Orwell</author>
+        <year>1949</year>
+        <price>12.99</price>
+        <category>fiction</category>
+    </book>
+
+    <book id="8" totalCopies="4" availableCopies="3">
+        <title>The Great Gatsby</title>
+        <author>F. Scott Fitzgerald</author>
+        <year>1925</year>
+        <price>10.99</price>
+        <category>fiction</category>
+    </book>
+
+    <book id="9" totalCopies="3" availableCopies="1">
+        <title>Refactoring</title>
+        <author>Martin Fowler</author>
+        <year>2018</year>
+        <price>49.99</price>
+        <category>programming</category>
+    </book>
+
+    <book id="10" totalCopies="5" availableCopies="5">
+        <title>Head First Design Patterns</title>
+        <author>Eric Freeman</author>
+        <year>2004</year>
+        <price>52.99</price>
+        <category>computer-science</category>
+    </book>
+
+    <book id="11" totalCopies="2" availableCopies="2">
+        <title>To Kill a Mockingbird</title>
+        <author>Harper Lee</author>
+        <year>1960</year>
+        <price>14.99</price>
+        <category>fiction</category>
+    </book>
+
+    <book id="12" totalCopies="3" availableCopies="3">
+        <title>The Clean Coder</title>
+        <author>Robert C. Martin</author>
+        <year>2011</year>
+        <price>34.99</price>
+        <category>programming</category>
+    </book>
+
+    <book id="13" totalCopies="4" availableCopies="2">
+        <title>Java Concurrency in Practice</title>
+        <author>Brian Goetz</author>
+        <year>2006</year>
+        <price>59.99</price>
+        <category>programming</category>
+    </book>
+
+    <book id="14" totalCopies="3" availableCopies="1">
+        <title>Animal Farm</title>
+        <author>George Orwell</author>
+        <year>1945</year>
+        <price>9.99</price>
+        <category>fiction</category>
+    </book>
+
+    <book id="15" totalCopies="5" availableCopies="4">
+        <title>Domain-Driven Design</title>
+        <author>Eric Evans</author>
+        <year>2003</year>
+        <price>47.99</price>
+        <category>computer-science</category>
+    </book>
+
+    <book id="16" totalCopies="4" availableCopies="2">
+        <title>Homage to Catalonia</title>
+        <author>George Orwell</author>
+        <year>1938</year>
+        <price>15.99</price>
+        <category>non-fiction</category>
+    </book>
+
+    <book id="17" totalCopies="3" availableCopies="3">
+        <title>Down and Out in Paris and London</title>
+        <author>George Orwell</author>
+        <year>1933</year>
+        <price>11.99</price>
+        <category>non-fiction</category>
+    </book>
+
+    <book id="18" totalCopies="5" availableCopies="4">
+        <title>Agile Software Development, Principles, Patterns, and Practices</title>
+        <author>Robert C. Martin</author>
+        <year>2002</year>
+        <price>49.99</price>
+        <category>programming</category>
+    </book>
+
+    <book id="19" totalCopies="2" availableCopies="2">
+        <title>Clean Architecture</title>
+        <author>Robert C. Martin</author>
+        <year>2017</year>
+        <price>39.99</price>
+        <category>programming</category>
+    </book>
+
+    <book id="20" totalCopies="3" availableCopies="3">
+        <title>Java Puzzlers</title>
+        <author>Joshua Bloch</author>
+        <year>2005</year>
+        <price>29.99</price>
+        <category>programming</category>
+    </book>
+
+    <book id="21" totalCopies="4" availableCopies="3">
+        <title>Patterns of Enterprise Application Architecture</title>
+        <author>Martin Fowler</author>
+        <year>2002</year>
+        <price>55.00</price>
+        <category>programming</category>
+    </book>
+
+    <book id="22" totalCopies="3" availableCopies="2">
+        <title>UML Distilled</title>
+        <author>Martin Fowler</author>
+        <year>2003</year>
+        <price>35.00</price>
+        <category>computer-science</category>
+    </book>
+
+</library>
